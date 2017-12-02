@@ -35,9 +35,7 @@
 - [ ] Skiing
 
 ## Throwback Thursdays
-- [ ] Granada, Spain
-- [ ] Rome, Italy
-- [ ] Paris, France
+
 ## Resturants
 - [ ] Enoteca Tredici 
 
