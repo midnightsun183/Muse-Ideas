@@ -4,7 +4,7 @@
      - [ ] Machu Picchu
      - [ ] Cuzco
      - [ ] Lima
-- [ ] Austria
+
 - [ ] Bora Bora
 - [ ] Hong Kong
      - [ ] Hong Kong Harbor
@@ -12,12 +12,7 @@
      - [ ] Cairo
      - [ ] Giza
 - [ ] Tokyo
-- [ ] Germany
-     - [ ] October Fest
-- [ ] The United Kingdom
-     - [ ] England
-          - [ ] London
-     - [ ] North Ireland
+
          
 
 ## The United States
