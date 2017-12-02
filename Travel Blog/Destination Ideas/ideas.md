@@ -2,10 +2,10 @@
 ## New Locations
 - [ ] Machu Picchu
 - [ ] 
-- [ ]
-- [ ]
-- [ ]
-- [ ]
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
 
 ## Revisted Locations
 - [ ] Valley Forge, National Park
