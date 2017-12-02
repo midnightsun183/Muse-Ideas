@@ -23,14 +23,15 @@
       - [ ] Musconetcong Gorge 
 - [ ] Delaware
         - [ ] Newark
-        
-   
-     
+        - [ ]  Rohoboth Beath
 - [ ] Arizona     
+     - [ ] Phoneix
      - [ ] The Grand Canyon
-
-
-
+# Events & Adventures
+- [ ] Polarbear Plunge
+- [ ] Skydiving
+- [ ] Skiing
+<br>
 ## Throwback Thursdays
 - [ ] Granada, Spain
 - [ ] Rome, Italy
