@@ -13,22 +13,6 @@
      - [ ] Giza
 - [ ] Tokyo
 
-         
-
-## The United States
-- [ ] Pennsylvania
-     - [ ] Valley Forge, National Park
-     - [ ] Glen's Hollow
-     - [ ] Nixon State Park
-     - [ ] Bryn Mawr, Pa
-- [ ] New Jersey
-     - [ ] Musconetcong Gorge 
-- [ ] Delaware
-     - [ ] Newark
-     - [ ] Rohoboth Beath
-- [ ] Arizona     
-     - [ ] Phoneix
-     - [ ] The Grand Canyon
 # Events & Adventures
 - [ ] Polarbear Plunge
 - [ ] Skydiving
