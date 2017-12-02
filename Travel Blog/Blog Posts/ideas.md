@@ -4,7 +4,7 @@
  
  
  
- Post | Date 
------------- | -------------
-Content from cell 1 | Content from cell  
+ Post                       | Date 
+------------                | -------------
+Content from cell 1         | Content from cell  
 Content in the first column | Content in the second column 
