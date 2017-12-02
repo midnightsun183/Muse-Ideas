@@ -31,10 +31,15 @@
 - [ ] Polarbear Plunge
 - [ ] Skydiving
 - [ ] Skiing
-<br>
+
 ## Throwback Thursdays
 - [ ] Granada, Spain
 - [ ] Rome, Italy
 - [ ] Paris, France
 ## Resturants
 - [ ] Enoteca Tredici 
+
+
+Below are some words
+
+and more words
