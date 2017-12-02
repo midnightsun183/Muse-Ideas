@@ -1,26 +1,32 @@
 # Some ideas for Future Destination
 ## New Locations
-- [ ] Machu Picchu,
-     - [ ] Peru
+- [ ] Peru
+     - [ ] Machu Picchu
+     - [ ] Cuzco
+     - [ ] Lima
 - [ ] Austria
 - [ ] Bora Bora
 - [ ] Hong Kong
+     - [ ] Hong Kong Harbor
 - [ ] Egypt
+     - [ ] Cairo
+     - [ ] Giza
 - [ ] Tokyo
 
-## Revisted Locations
-- [ ] Valley Forge, National Park
-- [ ] The Grand Canyon, Arizona
-- [ ] Enoteca Tredici 
-    Bryn Mawr, Pa
-- [ ]
-- [ ]
-- [ ]
+## The United States
+- [ ] Pennsylvania
+     - [ ] Valley Forge, National Park
+     - [ ] Glen's Hollow
+     - [ ] Nixon State Park
+     - [ ] Bryn Mawr, Pa
+- [ ] Arizona     
+     - [ ] The Grand Canyon
+
+
 
 ## Throwback Thursdays
 - [ ] Granada, Spain
 - [ ] Rome, Italy
 - [ ] Paris, France
-- [ ]
-- [ ]
-- [ ]
+## Resturants
+- [ ] Enoteca Tredici 
