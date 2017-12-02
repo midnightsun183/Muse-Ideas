@@ -27,10 +27,10 @@
      - [ ] Nixon State Park
      - [ ] Bryn Mawr, Pa
 - [ ] New Jersey
-      - [ ] Musconetcong Gorge 
+     - [ ] Musconetcong Gorge 
 - [ ] Delaware
-        - [ ] Newark
-        - [ ]  Rohoboth Beath
+     - [ ] Newark
+     - [ ] Rohoboth Beath
 - [ ] Arizona     
      - [ ] Phoneix
      - [ ] The Grand Canyon
