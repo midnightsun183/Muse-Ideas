@@ -19,6 +19,13 @@
      - [ ] Glen's Hollow
      - [ ] Nixon State Park
      - [ ] Bryn Mawr, Pa
+- [ ] New Jersey
+      - [ ] Musconetcong Gorge 
+- [ ] Delaware
+        - [ ] Newark
+        
+   
+     
 - [ ] Arizona     
      - [ ] The Grand Canyon
 
