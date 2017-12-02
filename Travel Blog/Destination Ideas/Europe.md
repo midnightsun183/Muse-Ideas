@@ -7,4 +7,9 @@
           - [ ] London
      - [ ] North Ireland
 - [ ] Austria
+
+
 # Throwback Thursdays
+- [ ] Granada, Spain
+- [ ] Rome, Italy
+- [ ] Paris, France
