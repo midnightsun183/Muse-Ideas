@@ -39,7 +39,3 @@
 ## Resturants
 - [ ] Enoteca Tredici 
 
-
-Below are some words
-
-and more words
