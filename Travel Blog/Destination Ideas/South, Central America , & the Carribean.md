@@ -1,5 +1,5 @@
 # Central America
-Belize
+-[ ] Belize
 Costa Rica
 El Salvador
 Guatemala
