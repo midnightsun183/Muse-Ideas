@@ -17,6 +17,7 @@
 - [ ] Polarbear Plunge
 - [ ] Skydiving
 - [ ] Skiing
+- [ ] Local Markets
 
 ## Throwback Thursdays
 
