@@ -4,3 +4,5 @@ Ideas for the Future
 - [ ] 5dollarinsults.com
 - [ ] cardboard gun kits
 - [ ] reapair show/shop
+- [ ] Wall Street Bets 
+- [ ] Ex-GF alerts
