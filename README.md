@@ -6,3 +6,4 @@ Ideas for the Future
 - [ ] reapair show/shop
 - [ ] Wall Street Bets 
 - [ ] Ex-GF alerts
+- [ ] Give.global
