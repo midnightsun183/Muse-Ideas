@@ -7,3 +7,10 @@ Ideas for the Future
 - [ ] Wall Street Bets 
 - [ ] Ex-GF alerts
 - [ ] Give.global
+- [ ] app that outputs trumpisms when you input anything
+- [ ] app that outputs trump tweets
+- [ ] voice modulation to trump
+- [ ] homophone maker
+- [ ] autocorrect fail maker
+
+
