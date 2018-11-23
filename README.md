@@ -12,5 +12,5 @@ Ideas for the Future
 - [ ] voice modulation to trump
 - [ ] homophone maker
 - [ ] autocorrect fail maker
-
+- [ ] the exclusivity club
 
