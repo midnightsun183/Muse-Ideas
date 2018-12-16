@@ -13,4 +13,5 @@ Ideas for the Future
 - [ ] homophone maker
 - [ ] autocorrect fail maker
 - [ ] the exclusivity club
+- [ ] certified animal petter
 
