@@ -15,3 +15,4 @@ Ideas for the Future
 - [ ] the exclusivity club
 - [ ] certified animal petter
 - [ ] Ivy League Tutor
+- [ ] Spanish language course developement
