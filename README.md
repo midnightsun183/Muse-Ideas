@@ -14,4 +14,4 @@ Ideas for the Future
 - [ ] autocorrect fail maker
 - [ ] the exclusivity club
 - [ ] certified animal petter
-
+- [ ] Ivy League Tutor
