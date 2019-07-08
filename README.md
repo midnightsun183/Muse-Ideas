@@ -16,3 +16,5 @@ Ideas for the Future
 - [ ] certified animal petter
 - [ ] Ivy League Tutor
 - [ ] Spanish language course developement
+- [ ] Hublock for bikes 
+- [ ] VeryQuick a scheduling App for doctors, Plumbers and more
