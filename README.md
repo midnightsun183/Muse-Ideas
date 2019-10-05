@@ -17,6 +17,6 @@ Ideas for the Future
 - [ ] Ivy League Tutor
 - [ ] Spanish language course developement
 - [ ] Hublock for bikes 
-- [ ] VeryQuick a scheduling App for doctors, Plumbers and more
+- [ ] ReallyQuick: "Get it with just a click. Doctors, Plumbers and more." a scheduling App for
 - [ ] Glitch a movie set in the Matrix universe about people who've noticed inconsistancies in the matrix and are trying to escape.
 - [ ] Bollywood entertainment/media.com
