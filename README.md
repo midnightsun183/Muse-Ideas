@@ -20,3 +20,4 @@ Ideas for the Future
 - [ ] ReallyQuick: "Get it with just a click. Doctors, Plumbers and more." a scheduling App for
 - [ ] Glitch a movie set in the Matrix universe about people who've noticed inconsistancies in the matrix and are trying to escape.
 - [ ] Bollywood entertainment/media.com
+- [ ] Sympathy for the Devil a theological examination
