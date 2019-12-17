@@ -21,3 +21,5 @@ Ideas for the Future
 - [ ] Glitch a movie set in the Matrix universe about people who've noticed inconsistancies in the matrix and are trying to escape.
 - [ ] Bollywood entertainment/media.com
 - [ ] Sympathy for the Devil a theological examination
+- [ ] Centiuron Consulting
+- [ ] Buying trademarks/copywrite/reg and suing companies
