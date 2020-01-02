@@ -23,3 +23,4 @@ Ideas for the Future
 - [ ] Sympathy for the Devil a theological examination
 - [ ] Centiuron Consulting
 - [ ] Buying trademarks/copywrite/reg and suing companies
+- [ ] 48 Hour Expert: How to become an expert in almost any field
