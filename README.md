@@ -25,4 +25,4 @@ Ideas for the Future
 - [ ] Buying trademarks/copywrite/reg and suing companies
 - [ ] 48 Hour Expert: How to become an expert in almost any field
 - [ ] Interview.com- questions asked by specific companies and how to answer the questions, plus cheat sheets (DMR protected)
-      - [ ] Google form asking friends for tech questsion/pay per download of their cheatsheet
+      Google form asking friends for tech questsion/pay per download of their cheatsheet
