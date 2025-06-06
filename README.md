@@ -25,4 +25,22 @@ Ideas for the Future
 - [ ] Buying trademarks/copywrite/reg and suing companies
 - [ ] 48 Hour Expert: How to become an expert in almost any field
 - [ ] Interview.com- questions asked by specific companies and how to answer the questions, plus cheat sheets (DMR protected)
-      Google form asking friends for tech questsion/pay per download of their cheatsheet
+- [ ] Google form asking friends for tech questsion/pay per download of their cheatsheet
+- [ ] Financial Advice
+- [ ] My Midlife Crisis Fund
+- [ ] Student Loan Simulator
+- [ ] Late Stage Capitalism: The Game
+- [ ] Infinite Money Glitch
+- [ ] Stonks Go Down
+- [ ] Girl Math: The Website
+- [ ] This Is Fine dot com
+- [ ] The Void Stares Back
+- [ ] My Rent Money
+- [ ] Paycheck to Paycheck: The Game
+- [ ] The Human Hamster Wheel
+- [ ] Doomscroll to Zero
+- [ ] Ruin My Day
+- [ ] Zero My Account
+- [ ] Everything Must Go
+- [ ] Make Me Rich
+- [ ] The Internet's Tip Jar
